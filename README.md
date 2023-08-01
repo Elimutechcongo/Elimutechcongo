@@ -4,10 +4,10 @@
 
 <p align="center">
 Elimutech est une communauté de passionnés de la technologie et du web qui se réunit pour partager leurs connaissances, collaborer sur des projets, et échanger des idées sur les dernières tendances et innovations dans le domaine.
-
+</p>
   <img align="center" width="60%" alt="GIF" src="https://user-images.githubusercontent.com/140571749/257532390-9c1dc640-b1fe-4fb8-83d0-44067b9a58a9.png"/>
 
-</p>
+
 
 Notre projet actuel est de déployer une infrastructure DNS résiliente, sécurisée et stable sur l'environnement Proxmox avec haute disponibilité. Sur cette infrastrucutre sera déployeé des VM Ubuntu 20.04 sur ce serveur.
 La Sécurité et la supervision du SI sera gerer par un pare-feu Pfsense et un outil complet comme WAZUH.
@@ -26,9 +26,8 @@ Les objectifs de notre projet sont les suivants
 
 Si vous êtes intéressé à rejoindre notre communauté ou à contribuer à notre projet DNS, voici comment vous pouvez le faire
 
-    Rejoignez notre groupe sur nom [ELIMUtech Congo](https://elimutechcongo@gmail.com)
-    Suivez-nous sur [facebook](https://www.facebook.com/100095236926078/posts/pfbid02a3HUvsCtBokcyxZoWsRCiZuPSfgQxrDX5hXA8BXTfwMhri3XKY1vLtpx7dZShQ1Rl/?mibextid=cr9u03)  pour être informé des dernières nouvelles et événements.
-    Participez aux discussions sur notre forum en ligne ou sur notre groupe de discussion pour partager vos idées et vos opinions [ici](https://elimutechcongo@gmail.com)
+    Rejoignez notre groupe  <a href="https://elimutechcongo@gmail.com"> ICI </a>
+    Suivez-nous sur <a href="https://www.facebook.com/100095236926078/posts/pfbid02a3HUvsCtBokcyxZoWsRCiZuPSfgQxrDX5hXA8BXTfwMhri3XKY1vLtpx7dZShQ1Rl/?mibextid=cr9u03">ICI </a> pour être informé des dernières nouvelles et événements.
 
 Nous sommes toujours heureux d'accueillir de nouveaux membres dans notre communauté pour contribuer à notre projet DNS. Rejoignez-nous dès aujourd'hui !
 
