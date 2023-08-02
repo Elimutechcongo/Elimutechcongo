@@ -24,7 +24,7 @@ Si vous êtes intéressé à rejoindre notre communauté ou à contribuer à not
 
   - [Ecrivez nous sur ici](https://elimutechcongo@gmail.com)
   - Pour être informé des dernières nouvelles et événements
-[Suivez-nous sur pour](https://www.facebook.com/100095236926078/posts/pfbid02a3HUvsCtBokcyxZoWsRCiZuPSfgQxrDX5hXA8BXTfwMhri3XKY1vLtpx7dZShQ1Rl/?mibextid=cr9u03)
+[Suivez-nous--> ](https://www.facebook.com/100095236926078/posts/pfbid02a3HUvsCtBokcyxZoWsRCiZuPSfgQxrDX5hXA8BXTfwMhri3XKY1vLtpx7dZShQ1Rl/?mibextid=cr9u03)
 ## Comment contribuer
 
 Nous encourageons tous les membres à contribuer à notre projet DNS de quelque manière que ce soit. Voici quelques façons de contribuer
