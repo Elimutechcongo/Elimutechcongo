@@ -22,8 +22,8 @@ Apporter des solutions : Nous visons à résoudre les problèmes auxquels nos en
 
 Si vous êtes intéressé à rejoindre notre communauté ou à contribuer à notre projet DNS, voici comment vous pouvez le faire
 
-  [Ecrivez nous sur ici](https://elimutechcongo@gmail.com)
-    Pou être informé des dernières nouvelles et événements
+  - [Ecrivez nous sur ici](https://elimutechcongo@gmail.com)
+  - Pour être informé des dernières nouvelles et événements
 [Suivez-nous sur pour](https://www.facebook.com/100095236926078/posts/pfbid02a3HUvsCtBokcyxZoWsRCiZuPSfgQxrDX5hXA8BXTfwMhri3XKY1vLtpx7dZShQ1Rl/?mibextid=cr9u03)
 ## Comment contribuer
 
