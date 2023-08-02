@@ -1,36 +1,28 @@
 # Elimutech
-
+ <img align="center" width="10%" alt="GIF" src="https://user-images.githubusercontent.com/140571749/257532390-9c1dc640-b1fe-4fb8-83d0-44067b9a58a9.png"/>
+  [Nos partenaire](https://user-images.githubusercontent.com/140571749/257671926-65f8d186-4857-4d8e-8605-52353c169666.png)]
+ <img align="center" width="10%" alt="GIF" src="https://user-images.githubusercontent.com/140571749/257671926-65f8d186-4857-4d8e-8605-52353c169666.png"/>
 ## Description
 
-<p align="center">
-Elimutech est une communauté de passionnés de la technologie et du web qui se réunit pour partager leurs connaissances, collaborer sur des projets, et échanger des idées sur les dernières tendances et innovations dans le domaine.
+<p>
+Nous sommes un groupe de jeunes passionnés des nouvelles technologies ayant participé au DNSathon organisé par le salon OSIANE qui est un salon international de la tech et l’innovation de l’afrique centrale qui se tient chaque année depuis 2017 à Brazzaville en République du Congo, en partenariat avec ICANN (Internet Corporation for Assigned Names  and Numbers), qui est une organisation mondiale chargée de coordonner les identificateurs uniques de l'Internet. Cet événement nous a permis de rencontrer des personnes partageant les mêmes intérêts et de découvrir les dernières tendances en matière de développement logiciel, de sécurité informatique, de réseaux et de systèmes d'information.
+C'est à la suite de notre participation au DNSathon que nous avons eu l'idée de créer une communauté du nom ELIMU TECH pour continuer à échanger des idées, partager des connaissances et trouver des solutions à des problèmes techniques que des entreprises rencontrent.Nous avons constaté un réel besoin d’une telle communauté, où chacun peut trouver un environnement propice à l’apprentissage et la croissance. ELIMU TECH est là pour rassembler les talents divers, encourager la collaboration et stimuler les progrès technologiques.
+
 </p>
-  <img align="center" width="60%" alt="GIF" src="https://user-images.githubusercontent.com/140571749/257532390-9c1dc640-b1fe-4fb8-83d0-44067b9a58a9.png"/>
-
-
-
-Notre projet actuel est de déployer une infrastructure DNS résiliente, sécurisée et stable sur l'environnement Proxmox avec haute disponibilité. Sur cette infrastrucutre sera déployeé des VM Ubuntu 20.04 sur ce serveur.
-La Sécurité et la supervision du SI sera gerer par un pare-feu Pfsense et un outil complet comme WAZUH.
-Le Backup des VM : Proxmox gère les backups des VM en utilisant la fonctionnalité intégrée de sauvegarde. Les VM peuvent être sauvegardées sur un stockage local ou distant. Nous prévoyons de sauvegarder nos VM sur un stockage distant pour garantir leur sécurité.
-
+ 
 ## Objectifs
 
-Les objectifs de notre projet sont les suivants
+Renforcer les compétences numériques : Nous visons à offrir des opportunités de formation et d'apprentissage aux jeunes talents et aux professionnels de l'informatique au Congo. Notre objectif est d'améliorer les compétences techniques, de promouvoir la maîtrise des nouvelles technologies et de soutenir l'acquisition de compétences clés pour réussir dans l'économie numérique.
+Favoriser la collaboration et le réseautage : Nous encourageons les échanges entre les acteurs de l'écosystème technologique. Notre communauté sera un lieu de rencontre où les entrepreneurs, les développeurs, les chercheurs, les investisseurs et les décideurs pourront se connecter, partager des idées, établir des partenariats et construire ensemble un écosystème technologique solide et dynamique.
+Apporter des solutions : Nous visons à résoudre les problèmes auxquels nos entreprises Congolaise sont confrontées chaque jour comme la virtualisation, l’hébergement, le peerings.
 
-
-    -Déployer une infrastructure DNS résiliente, sécurisée et stable
-    -Utiliser l'environnement Proxmox avec haute disponibilité en utilisant Ceph pour garantir une -disponibilité maximale
-    -Déployer 6 VM Ubuntu 20.04 pour superviser l'état des 2 nœuds
-    -Utiliser Wazuh pour superviser l'état des 2 nœuds et détecter les menaces potentielles
 
 ## Comment nous rejoindre
 
 Si vous êtes intéressé à rejoindre notre communauté ou à contribuer à notre projet DNS, voici comment vous pouvez le faire
 
-    Rejoignez notre groupe  <a href="https://elimutechcongo@gmail.com"> ICI </a>
-    Suivez-nous sur <a href="https://www.facebook.com/100095236926078/posts/pfbid02a3HUvsCtBokcyxZoWsRCiZuPSfgQxrDX5hXA8BXTfwMhri3XKY1vLtpx7dZShQ1Rl/?mibextid=cr9u03">ICI </a> pour être informé des dernières nouvelles et événements.
-
-Nous sommes toujours heureux d'accueillir de nouveaux membres dans notre communauté pour contribuer à notre projet DNS. Rejoignez-nous dès aujourd'hui !
+   [![  Ecrivez-nous sur](https://elimutechcongo@gmail.com)]
+  [![Suivez-nous sur pour](https://www.facebook.com/100095236926078/posts/pfbid02a3HUvsCtBokcyxZoWsRCiZuPSfgQxrDX5hXA8BXTfwMhri3XKY1vLtpx7dZShQ1Rl/?mibextid=cr9u03)] être informé des dernières nouvelles et événements
 
 ## Comment contribuer
 
