@@ -10,7 +10,7 @@
 Nous sommes un groupe de jeunes passionnés des nouvelles technologies ayant participé au DNSathon organisé par le salon OSIANE qui est un salon international de la tech et l’innovation de l’afrique centrale qui se tient chaque année depuis 2017 à Brazzaville en République du Congo, en partenariat avec ICANN (Internet Corporation for Assigned Names  and Numbers), qui est une organisation mondiale chargée de coordonner les identificateurs uniques de l'Internet. Cet événement nous a permis de rencontrer des personnes partageant les mêmes intérêts et de découvrir les dernières tendances en matière de développement logiciel, de sécurité informatique, de réseaux et de systèmes d'information.
 C'est à la suite de notre participation au DNSathon que nous avons eu l'idée de créer une communauté du nom ELIMU TECH pour continuer à échanger des idées, partager des connaissances et trouver des solutions à des problèmes techniques que des entreprises rencontrent.Nous avons constaté un réel besoin d’une telle communauté, où chacun peut trouver un environnement propice à l’apprentissage et la croissance. ELIMU TECH est là pour rassembler les talents divers, encourager la collaboration et stimuler les progrès technologiques.
 </p>
- 
+
 ## Objectifs
 
 Renforcer les compétences numériques : Nous visons à offrir des opportunités de formation et d'apprentissage aux jeunes talents et aux professionnels de l'informatique au Congo. Notre objectif est d'améliorer les compétences techniques, de promouvoir la maîtrise des nouvelles technologies et de soutenir l'acquisition de compétences clés pour réussir dans l'économie numérique.
@@ -19,7 +19,7 @@ Apporter des solutions : Nous visons à résoudre les problèmes auxquels nos en
 
 ## Documentation nos projets
 
-[Documentation](https://linktodocumentation)
+[Infrastructure DNS résiliente, sécurisé et stable]([https://linktodocumentation](https://github.com/users/Elimutechcongo/projects/3))
 
 ## Comment nous rejoindre
 
@@ -28,12 +28,13 @@ Si vous êtes intéressé à rejoindre notre communauté ou à contribuer à not
   - [Ecrivez nous sur ici](https://elimutechcongo@gmail.com)
   - Pour être informé des dernières nouvelles et événements
 [Suivez-nous--> ](https://www.facebook.com/100095236926078/posts/pfbid02a3HUvsCtBokcyxZoWsRCiZuPSfgQxrDX5hXA8BXTfwMhri3XKY1vLtpx7dZShQ1Rl/?mibextid=cr9u03)
+
 ## Comment contribuer
 
 Nous encourageons tous les membres à contribuer à notre projet DNS de quelque manière que ce soit. Voici quelques façons de contribuer
 
-    - Participer au déploiement de l'infrastructure DNS résiliente, sécurisé et stable;
-    -Partager vos connaissances et vos idées avec la communauté.
+    - Participez à nos projets ;
+    - Partager vos connaissances et vos idées avec la communauté.
 
 ## Remerciements
 
@@ -43,7 +44,7 @@ Nous encourageons tous les membres à contribuer à notre projet DNS de quelque 
 ## NOS VALEURS
 - Engagement - Respect - Partage - Collaboration.
 
-NOS ACTIVITÉS
+## NOS ACTIVITÉS
 - Animation ateliers de formation sur des sujets liés au numerique
 - Nous organisons des Hackathons 
 - Sessions de questions-réponses : Organiser des sessions de questions-réponses pour permettre aux membres de la communauté de poser des questions et d'obtenir des réponses de la part d'experts. 
