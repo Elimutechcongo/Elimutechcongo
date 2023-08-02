@@ -17,6 +17,9 @@ Renforcer les compétences numériques : Nous visons à offrir des opportunités
 Favoriser la collaboration et le réseautage : Nous encourageons les échanges entre les acteurs de l'écosystème technologique. Notre communauté sera un lieu de rencontre où les entrepreneurs, les développeurs, les chercheurs, les investisseurs et les décideurs pourront se connecter, partager des idées, établir des partenariats et construire ensemble un écosystème technologique solide et dynamique.
 Apporter des solutions : Nous visons à résoudre les problèmes auxquels nos entreprises Congolaise sont confrontées chaque jour comme la virtualisation, l’hébergement, le peerings.
 
+## Documentation nos projets
+
+[Documentation](https://linktodocumentation)
 
 ## Comment nous rejoindre
 
@@ -38,10 +41,7 @@ Nous encourageons tous les membres à contribuer à notre projet DNS de quelque 
 - Nous remercions également M. Luc Okalobe pour ses conseils sur les méthodes agiles.
 
 ## NOS VALEURS
-- Engagement;
-- Respect;
-- Partage;
-- Collaboration.
+- Engagement - Respect - Partage - Collaboration.
 
 NOS ACTIVITÉS
 - Animation ateliers de formation sur des sujets liés au numerique
