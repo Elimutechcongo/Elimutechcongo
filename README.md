@@ -29,15 +29,26 @@ Si vous êtes intéressé à rejoindre notre communauté ou à contribuer à not
 
 Nous encourageons tous les membres à contribuer à notre projet DNS de quelque manière que ce soit. Voici quelques façons de contribuer
 
-    -Participer au déploiement de l'infrastructure DNS et des VM Ubuntu 20.04;
-    -Contribuer à l'utilisation de Wazuh pour superviser l'état des nœuds et détecter les menaces potentielles;
-    -Preparer des VM configuré avec des services important pour notre Lab actuel (2FA sur les VM, -server DNS primaire, Secondaire, Resolver 1 et 2,  et un server Pfsense)
-    -Partager vos connaissances et vos idées avec la communauté;
+    - Participer au déploiement de l'infrastructure DNS résiliente, sécurisé et stable;
+    -Partager vos connaissances et vos idées avec la communauté.
 
 ## Remerciements
 
 - Nous aimerions remercier M. Luc Missidimbazi de OSIANE pour son accompagnement, en particulier pour l'équipement et le local pour notre lab.
 - Nous remercions également M. Luc Okalobe pour ses conseils sur les méthodes agiles.
+
+## NOS VALEURS
+- Engagement;
+- Respect;
+- Partage;
+- Collaboration.
+
+NOS ACTIVITÉS
+- Animation ateliers de formation sur des sujets liés au numerique
+- Nous organisons des Hackathons 
+- Sessions de questions-réponses : Organiser des sessions de questions-réponses pour permettre aux membres de la communauté de poser des questions et d'obtenir des réponses de la part d'experts. 
+- Webinaires : des webinaires pour permettre aux membres de la communauté d'apprendre auprès d'experts. 
+- Organiser des meetups : pour permettre aux membres de la communauté de se rencontrer en personne et d'échanger sur des sujets liés à la technologie.
 
 ## Licence
 
