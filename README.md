@@ -19,7 +19,7 @@ Apporter des solutions : Nous visons à résoudre les problèmes auxquels nos en
 
 ## Documentation nos projets
 
-[Infrastructure DNS résiliente, sécurisé et stable]([https://linktodocumentation](https://github.com/users/Elimutechcongo/projects/3))
+[Infrastructure DNS résiliente, sécurisé et stable](https://github.com/users/Elimutechcongo/projects/3)
 
 ## Comment nous rejoindre
 
