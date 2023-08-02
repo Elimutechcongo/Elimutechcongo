@@ -17,6 +17,7 @@ Le Backup des VM : Proxmox gère les backups des VM en utilisant la fonctionnali
 
 Les objectifs de notre projet sont les suivants
 
+
     -Déployer une infrastructure DNS résiliente, sécurisée et stable
     -Utiliser l'environnement Proxmox avec haute disponibilité en utilisant Ceph pour garantir une -disponibilité maximale
     -Déployer 6 VM Ubuntu 20.04 pour superviser l'état des 2 nœuds
